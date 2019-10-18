@@ -1,2 +1,3 @@
 test push
  form remote by to point in local shared folder
+ edit from github 
