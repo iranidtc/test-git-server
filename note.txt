@@ -5,5 +5,10 @@ form remote by to point in local shared folder
 edit from github 
 
 now edit agian and pull to github
+final test to push
+
+
+
+
 
 
